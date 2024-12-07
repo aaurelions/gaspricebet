@@ -1,0 +1,3 @@
+@headerprotocol/contracts/=lib/headerprotocol/contracts/
+forge-std/=lib/forge-std/src/
+headerprotocol/=lib/headerprotocol/src/
